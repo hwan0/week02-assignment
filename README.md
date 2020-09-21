@@ -53,3 +53,11 @@ By mixing three "primary" colors, any color could be generated. Swirling all col
 ![캡처_2020_09_21_09_00_25_208](https://user-images.githubusercontent.com/71207918/93725298-11a1f580-fbe9-11ea-9910-bb84e6f45ffb.png)
 
 This assumes that the colors are all as bright as possible, but of course, you have a range of color available, so some red plus some green plus some blue equals gray, and a bit of red plus a bit of blue equals dark purple. While this may take some getting used to, the more you program and experiment with RGB color, the more it will become instinctive, much like swirling colors with your fi ngers. And of course you can't say "Mix some red with a bit of blue," you have to provide an exact amount. As with grayscale, the individual color elements are expressed as ranges from 0 (none of that color) to 255 (as much as possible), and they are listed in the order R, G, and B. You will get the hang of RGB color mixing through experimentation, but next we will cover some code using some common colors.
+
+
+
+
+https://booksite.elsevier.com/samplechapters/9780240817811/9780240817811.pdf
+https://processing.org/tutorials/color/
+https://www.quora.com/What-exactly-is-an-alpha-channel-in-an-image
+https://en.wikipedia.org/wiki/Alpha_compositing
